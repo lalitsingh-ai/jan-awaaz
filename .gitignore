@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Build artifacts
+*.tsbuildinfo
+
+# Local npm registry (internal mirror — do not publish)
+.npmrc
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Env
+.env
+.env.local

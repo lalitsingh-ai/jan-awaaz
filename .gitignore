@@ -7,8 +7,11 @@ dist-ssr
 # Build artifacts
 *.tsbuildinfo
 
-# Local npm registry (internal mirror — do not publish)
+# Local npm registry config
 .npmrc
+
+# Office temporary files
+~$*
 
 # Editor
 .vscode/*
